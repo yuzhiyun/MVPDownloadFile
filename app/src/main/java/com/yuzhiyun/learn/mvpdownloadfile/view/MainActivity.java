@@ -59,6 +59,10 @@ public class MainActivity extends BaseActivity implements View.OnClickListener,I
         }
     }
 
+    /**
+     * 获取下载链接
+     * @return
+     */
     @Override
     public String getUrl() {
 //        return ;
